@@ -1,0 +1,7 @@
+
+/* Base styles are now handled by Tailwind CDN in index.html */
+/* Keeping file for React import compatibility */
+
+@media print {
+  .no-print { display: none !important; }
+}
